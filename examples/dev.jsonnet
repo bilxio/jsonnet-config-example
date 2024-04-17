@@ -5,6 +5,6 @@
   "properties": {
     "prop1": [1],
     "prop2": [2],
-    "prop3": self.properties.prop1 + self.properties.prop2
+    "prop3": self.prop1 + self.prop2
   }
 }
